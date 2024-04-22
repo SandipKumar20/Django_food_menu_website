@@ -1,0 +1,1 @@
+# A django website which displays the menu items of a restaurant. Through this website, users can register, login, logout and authenticated users can post new menu items. There are two apps in this django project food and users. The data related to these apps are stored in an sqlite database.
